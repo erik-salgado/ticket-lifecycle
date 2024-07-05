@@ -81,7 +81,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![Annotation 2024-07-05 181920](https://github.com/erik-salgado/ticket-lifecycle/assets/173113320/b53abfb1-3b32-4dfd-b73a-51526556554c)
 
-This brings the conclusion for this tutorial, thank you for wacthing! :)
+This brings the conclusion for this tutorial, thank you for watching! :)
 
 
 
